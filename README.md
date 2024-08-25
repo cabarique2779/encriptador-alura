@@ -1,2 +1,2 @@
 # encriptador-alura
-aplicación qeu encripta y desencripta una cadena de texto.
+aplicación que encripta y desencripta una cadena de texto.
